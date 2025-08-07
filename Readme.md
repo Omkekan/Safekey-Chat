@@ -1,4 +1,4 @@
-# **🔐 Gossips \- A Privacy-Focused Messenger**
+# **🔐 Safekey Chat \- A Privacy-Focused Messenger**
 
 Gossips is a privacy-first Android messaging application built with Kotlin and Firebase. It's designed for users who demand absolute confidentiality in their conversations. The app features a unique **Secure Mode**, which enables robust, end-to-end AES encryption where the users themselves control the encryption key.
 
@@ -39,7 +39,7 @@ Transparency is key for a security-focused application. Here’s how Gossips pro
 To get a local copy up and running, follow these steps.
 
 1. **Clone the repository:**  
-   git clone https://github.com/YourUsername/Gossips.git
+   git clone https://github.com/Omkekan/Safekey-chat.git
 
 2. **Setup Firebase:**  
    * Create a new project on the [Firebase Console](https://console.firebase.google.com/).  
